@@ -1,0 +1,88 @@
+body{
+    background-color: gray;
+    margin:0;
+    box-sizing: border-box;
+    
+
+}
+.all{
+    margin: 10px 300px;
+
+}
+header{
+   background-color: white;
+   text-align: center;
+   font-size: 2em;
+   height: 15vh;
+   
+   color: gray;
+   margin:  10px;
+   
+ 
+    
+}
+nav{
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+    height: 15vh;
+  
+    color: gray;
+    margin: 10px;
+  
+}
+.mid{
+    background-color: gray;
+    margin: 0 10px;
+    display: flex;
+
+}
+section{
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+    height: 45vh;
+   flex: 1 1 60%;
+    color: gray;
+    margin: 10px 10px 0 0;
+
+}
+aside{
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+    height: 45vh;
+    flex: 1 1 50%;
+    color: gray;
+    margin: 10px 0 0 10px;
+    
+
+
+}
+article{
+    margin: 10px;
+    background-color: gray;
+    color: whites;
+    height: 30vh;
+    color: white;
+}
+h1{
+    background-color: white;
+    margin: 10px;
+    color: gray;
+}
+p{
+    background-color: white;
+    margin: 10px;
+    color: gray;
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+    height: 15vh;
+    
+    color: gray;
+    margin: 10px;
+}
